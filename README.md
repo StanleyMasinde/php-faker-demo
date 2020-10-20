@@ -1,4 +1,6 @@
 ## Faker Demo
 
 ### How to run this
-`php -f index.php`
+1. Clone this repo
+2. Run `composer install`
+3. Test it `php -f index.php`
