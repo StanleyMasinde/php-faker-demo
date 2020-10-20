@@ -1,0 +1,16 @@
+{
+    "name": "stanley/faker_demo",
+    "description": "A simple demo using the faker library",
+    "type": "project",
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stanley Masinde",
+            "email": "stanmasinde@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
